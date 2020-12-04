@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.kalendarzyk">
+  package="me.sewek.menstrual_cycle">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

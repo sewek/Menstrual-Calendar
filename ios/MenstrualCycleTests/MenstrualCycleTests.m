@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface kalendarzykTests : XCTestCase
+@interface MenstrualCycleTests : XCTestCase
 
 @end
 
-@implementation kalendarzykTests
+@implementation MenstrualCycleTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
